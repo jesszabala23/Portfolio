@@ -1,0 +1,24 @@
+.glide__slide img {
+    width: 80%;
+}
+
+.glide__slide {
+    filter: blur(1px);
+    opacity: .1;
+    transition: .3s linear;
+}
+
+.glide__slide--active {
+    filter: none;
+    opacity: 100;
+    transition: scale(120%);
+
+}
+
+.glide__slides {
+    overflow: visible;
+}
+
+.social-link {
+    background: rgb(204, 185, 14);
+}
