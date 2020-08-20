@@ -29,21 +29,6 @@ h1,h2,h3,h4,h5,h6{font-weight:700}
 .masthead{height:100vh}
 .masthead h1{font-size:5.5rem}}#sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;transition:all .4s ease 0s;transform:translateX(250px);background:#1d809f;border-left:1px solid rgba(255,255,255,.1)}
 
-.welcomehead{min-height:30rem;position:relative;display:table;width:100%;height:auto;padding-top:8rem;padding-bottom:8rem;background:linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%),url(../img/bg-masthead.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover}
-.welcomehead h1{font-size:4rem;margin:0;padding:0}@media (min-width:992px){
-.welcomehead{height:100vh}
-.welcomehead h1{font-size:5.5rem}}#sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;transition:all .4s ease 0s;transform:translateX(250px);background:#1d809f;border-left:1px solid rgba(255,255,255,.1)}
-
-.AreamastHead{min-height:30rem;position:relative;display:table;width:100%;height:auto;padding-top:8rem;padding-bottom:8rem;background:linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%),url(../img/bg-masthead.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover}
-.AreamastHead h1{font-size:4rem;margin:0;padding:0}@media (min-width:992px){
-.AreamastHead{height:100vh}
-.AreamastHead h1{font-size:5.5rem}}#sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;transition:all .4s ease 0s;transform:translateX(250px);background:#1d809f;border-left:1px solid rgba(255,255,255,.1)}
-
-.weatherhead{min-height:30rem;position:relative;display:table;width:100%;height:auto;padding-top:8rem;padding-bottom:8rem;background:linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%),url(../img/bg-masthead.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover}
-.weatherhead h1{font-size:4rem;margin:0;padding:0}@media (min-width:992px){
-.weatherhead{height:100vh}
-.weatherhead h1{font-size:5.5rem}}#sidebar-wrapper{position:fixed;z-index:2;right:0;width:250px;height:100%;transition:all .4s ease 0s;transform:translateX(250px);background:#1d809f;border-left:1px solid rgba(255,255,255,.1)}
-
 .portWeb{min-height:30rem;position:relative;display:table;width:100%;height:auto;background:linear-gradient(90deg,rgba(255,255,255,.1) 0,rgba(255,255,255,.1) 100%),url(../img/bg-masthead.jpg);background-position:center center;background-repeat:no-repeat;background-size:cover}
 .portWeb h1{font-size:4rem;margin:0;padding:0}@media (min-width:992px){
 .portWeb{height:100vh}
